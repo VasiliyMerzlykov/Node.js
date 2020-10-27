@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VasiliyMerzlykov/node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VasiliyMerzlykov/node.js/issues"
+  },
+  "homepage": "https://github.com/VasiliyMerzlykov/node.js#readme",
+  "dependencies": {
+    "@vasiliymerzlykov/ajs": "^1.0.0"
+  }
+}
